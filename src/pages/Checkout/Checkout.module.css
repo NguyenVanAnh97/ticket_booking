@@ -1,0 +1,14 @@
+.rapezoid {
+  border-bottom: 50px solid gray;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  height: 0;
+  width: 80%;
+  opacity: 0.3;
+  filter: drop-shadow(24px 171px 173px rgba(0, 0, 0, 0.65));
+  -webkit-filter: drop-shadow(24px 171px 173px rgba(0, 0, 0, 0.65));
+  -moz-filter: drop-shadow(24px 171px 173px rgba(0, 0, 0, 0.65));
+}
+
+.manHinh {
+}
